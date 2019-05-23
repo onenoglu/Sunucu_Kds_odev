@@ -1,0 +1,59 @@
+/*Üst*/
+.navbar-inverse {background-color: #342C4F;}    
+.navbar-inverse{border-color: #F0F0F0;}
+.navbar-inverse{min-height: 80px;}
+
+.header {
+    margin-top:20px ;
+}
+#kafa{
+    text-align: center;
+    color:white;
+}
+#kafaa{
+    text-align: center;
+    color:white;
+}
+
+/*Dikey Menü*/
+.dikeymenü{width: 250px;}
+.dikeymenü{margin-left: -20px;}
+.dikeymenü ul{list-style: none;}
+.dikeymenü ul li a {background:#6F6E80;
+color:#fff;
+font:14px verdana, arial;
+display:block;
+padding:20px 0px;
+text-decoration: none;
+text-align: center;} 
+
+.aktif{
+    color:green;
+}
+
+#arizalar {border-left: 5px solid #A88C45;}
+#arizalar:hover {background:#A88C45;}
+
+#arizakayit {border-left: 5px solid black;}
+#arizakayit:hover {background:black;}
+
+#mahalle {border-left: 5px solid #A88C45;}
+#mahalle:hover {background:#A88C45;}
+
+#deneme {border-left: 5px solid black;}
+#deneme:hover {background: black; }
+
+#deneme1 {border-left: 5px solid #A88C45;}
+#deneme1:hover {background:#A88C45;}
+
+#deneme2 {border-left: 5px solid black;}
+#deneme2:hover {background:black;}
+
+#deneme3 {border-left: 5px solid #A88C45;}
+#deneme3:hover {background:#A88C45;}
+
+
+#anasayfa, #arizalar, #arizakayit,#mahalle,#deneme,#deneme1,#deneme2,#deneme3 {transition-duration: 0.3s;}
+#grafik{
+    margin-top:50px;
+}
